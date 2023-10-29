@@ -1,0 +1,15 @@
+{
+  "name": "06_instagram_giveaway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oly_shaa",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "promises": "^0.2.5"
+  }
+}
