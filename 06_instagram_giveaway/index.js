@@ -36,8 +36,8 @@ async function existsInAllFiles() {
 
     let namesInAllFiles = 0;
     for (const [name, count] of namesInFiles.entries()) {
-        if (count === 20) { // Имя встречается в каждом файле
-            namesInAllFiles++;
+        if (count === 20) {
+            namesInAllFiles+=1;
         }
     }
 
